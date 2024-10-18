@@ -17,4 +17,3 @@ const lengthOfLastWord = function (s) {
   return letter;
 }
 
-console.log(lengthOfLastWord('   fly me   to   the moon  '));
